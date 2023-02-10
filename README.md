@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @attila-lin.
 - 💼 I'm working at NetEase.
 - 🏫 I graduated from Zhejiang University.
-- 👀 I'm interested in Rust, Typescript, GameDev.
+- 👀 I'm interested in **Rust**, **Typescript**, **GameDev**.
 - 🌱 I'm currently learning *High Performance Game Server Framework* and *日本語*.
 - 📫 How to reach me: [Twitter](https://twitter.com/attila_lin).
 
